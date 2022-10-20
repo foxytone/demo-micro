@@ -1,3 +1,9 @@
 [submodule "licensing-service"]
 	path = licensing-service
 	url = ./licensing-service
+[submodule "configserver"]
+	path = configserver
+	url = ./configserver
+[submodule "micro-license"]
+	path = micro-license
+	url = https://github.com/foxytone/micro_license
